@@ -378,11 +378,12 @@ dc {
     margin: 0 auto;
 }
 
-#fat-text-wrap #article-body {
+#btn-container {
     text-align: center;
+    margin-bottom: 50px;
 }
 
-#fat-text-wrap #article-body a {
+#btn-container a {
     font-size: 24px;
 }
 
